@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="coding gif" />
 </div>
 
-- 📫 How to reach me: **@steshaet**
+- 📫 How to reach me: **tg @steshaet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
